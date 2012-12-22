@@ -1,0 +1,6 @@
+*.swp
+*.un~
+*.java~
+*.class
+*.project
+*.DS_Store
